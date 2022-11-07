@@ -8,3 +8,7 @@
 * Tools like R or GitHub can help because you can easily retrace your steps and go over the code. 
 
 * I put the line in R. 
+
+## GM Feedback
+* Nice use of markdown synatax! (e.g., headings and lists) https://www.markdownguide.org/basic-syntax/
+* I'm so glad you mentioned OpenRefine, I love that software and it's useful for exploring and cleaning data. It also contributes to reproducibility because you can export all your data cleaning steps into a JSON file and you can apply those steps to other data sets (or add it to your data documention:  https://openrefine.org/
